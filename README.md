@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **ahmedmasbah.113@gmail.com**
 
-- ⚡ Fun fact **Fun fact: Did you know that Morocco is known for its diverse cuisine? From savory dishes like tagine and couscous to sweet delights like pastries and mint tea, Moroccan cuisine offers a rich fusion of flavors influenced by Berber, Arab, and Mediterranean culinary traditions. Exploring the vibrant food scene is definitely a must-do when visiting Morocco!**
+- ⚡ Fun fact : Did you know that Morocco is known for its diverse cuisine? From savory dishes like tagine and couscous to sweet delights like pastries and mint tea, Moroccan cuisine offers a rich fusion of flavors influenced by Berber, Arab, and Mediterranean culinary traditions. Exploring the vibrant food scene is definitely a must-do when visiting Morocco!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
