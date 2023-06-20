@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AhmedMasbah</h1>
 <h3 align="center">I am a proficient Full Stack Developer specializing in both Frontend and Backend development, hailing from Morocco.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img  src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmasbah&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmasbah" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ahmedmasbah1" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedmasbah1?logo=twitter&style=for-the-badge" alt="ahmedmasbah1" /></a> </p>
